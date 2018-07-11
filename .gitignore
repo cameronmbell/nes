@@ -1,0 +1,16 @@
+[Bb]uild/
+[Bb]ackup/
+[Ww]in32/
+[Ww]in64/
+
+.clang_complete
+.dir-locales.el
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake

@@ -1,0 +1,18 @@
+                           Natural Equation Solver
+                                    (nes)
+
+C++14 program to solve an equation seen in photograph; with no dependencies 
+other than stl. Pretty sure this program was made by the gang on an episode of 
+big bang theory; so credits to them for the idea. I am aware of how ambitious 
+it is, so for the time being the goal is to recognise and solve simple 
+expressions of the form [number operation number] and others of similar 
+structure.
+
+The modules that make up the application are as follows; they are combined 
+together in core which also handles the command line interface.
+
+[ho] fmt         better string formatter
+[ho] utest       unit test framework
+[ho] bytes       endian dependent memory regions
+
+Cameron Bell (cameronmbell2 [at] gmail [dot] com)
