@@ -1,7 +1,7 @@
 #include <util/fmt.hpp>
 
 int main(int argc, char* argv[]) {
-	fmt::print("Hello {}!\n", "world");
+	fmt::println("Hello {}!", "world");
 
 	return 0;
 }
