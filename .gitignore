@@ -4,7 +4,7 @@
 [Ww]in64/
 
 .clang_complete
-.dir-locales.el
+.dir-locals.el
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
